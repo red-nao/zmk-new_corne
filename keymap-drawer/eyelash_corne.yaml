@@ -99,7 +99,7 @@ layers:
   - $$mdi:backspace-reverse-outline$$
   - {t: '$$mdi:backspace$$', type: backspace}
   Fn:
-  - {t: '$$mdi:transfer$$', type: trans}
+  - '&studio_unlock'
   - F1
   - F2
   - F3
